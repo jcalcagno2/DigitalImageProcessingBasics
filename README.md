@@ -1,0 +1,1 @@
+Work and code from my Digital Image processing class! A really fun class that taught the basics of Digital Image processing, use cases, and how to implement. See in this repository image addition, subtraction, histogram equalization, filtering, and more!
